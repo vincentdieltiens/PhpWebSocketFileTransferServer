@@ -1,7 +1,6 @@
 #!/php -q
 <?php
 
-require_once('');
 require_once("lib/phpws/websocket.server.php");
 
 /**
